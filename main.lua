@@ -1,7 +1,7 @@
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 
-local validKeys = loadstring(game:HttpGet("https://raw.githubusercontent.com/c7v2c/scripts/main/main.lua"))()
+local validKeys = loadstring(game:HttpGet("https://pastebin.com/9NxjpPii"))()
 
 local function checkKey(key)
     for _, validKey in ipairs(validKeys) do
