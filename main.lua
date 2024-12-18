@@ -21,5 +21,5 @@ script_key = ""
 if checkKey(script_key) then
    print("Key Authorized")
 else
-   player:Kick("키가 올바르지 않아요.\n 디스코드로 문의해주세요.")
+   player:Kick("키가 올바르지 않아요. 디스코드로 문의해주세요.")
 end
