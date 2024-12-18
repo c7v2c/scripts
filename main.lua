@@ -17,5 +17,5 @@ script_key = ""
 if checkKey(script_key) then
   print("Key Authorized")
 else
-  player:Kick("구매는 c7v2c로 친추주세요")
+  player:Kick("구매는 디스코드 c7v2c")
 end
